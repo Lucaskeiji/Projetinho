@@ -6,7 +6,7 @@ Re002: Tratamento de Chamados via I.A, O sistema deve analisar os chamados por m
 Re003: O banco de dados deve ser MS SQL server hospedado em servidor nuvem.
 
 Prioridade 2: 
-Re004: Gerenciamento de chamados, Os chamados pendentes e concluídos poderão ser acessados pelo(s) responsável técnico, e podem ser marcados como concluídos após o problema ser resolvido.
+Re004: Gerenciamento de chamados, Os chamados pendentes e concluídos poderão ser acessados pelo(s) responsável técnico, e podem ser marcados como concluídos após o problema ser resolvido. o funcionario deve ser capaz de ver os chamados criados por ele e visualizar o status.
 
 Re005: Criação de Relatórios: O sistema deve ser capaz de criar relatórios semanais e mensais sobre os chamados criados, resolvidos e pendentes.
 
