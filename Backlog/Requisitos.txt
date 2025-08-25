@@ -3,7 +3,7 @@ Re001: Usuários devem ser capazes de criar chamados, estes chamados devem ter d
 
 Re002: Tratamento de Chamados via I.A, O sistema deve analisar os chamados por meio de uma I.A, e após a análise deve atribuir um nível de prioridade com base na descrição, categoria e quem o chamado afeta os enviar para o responsável técnico, e caso necessário recategorizar o chamado.
 
-Re003: O banco de dados deve ser MS SQL server hospedado em Windows Server.
+Re003: O banco de dados deve ser MS SQL server hospedado em servidor nuvem.
 
 Prioridade 2: 
 Re004: Gerenciamento de chamados, Os chamados pendentes e concluídos poderão ser acessados pelo(s) responsável técnico, e podem ser marcados como concluídos após o problema ser resolvido.
