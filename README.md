@@ -15,7 +15,7 @@ Scrum Master | Juan Vargas         | [Acessar Github](https://github.com/Renteri
 Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorphinm)               |
 Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
-Dev Team     | Lukas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
+Dev Team     | Lucas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
 
 ## Metodologia Scrum 🎯
 
