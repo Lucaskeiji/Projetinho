@@ -6,7 +6,7 @@ Os requisitos coletados foram os seguintes:
 
 Prioridade 1:
 
-Re001: Usuários devem ser capazes de criar chamados, estes chamados devem ter descrição, categoria (software e hardware) e quem ele afeta, se o problema afeta apenas o funcionário(prioridade baixa), a equipe(prioridade media) ou a empresa(prioridade alta).
+Re001: Usuários devem ser capazes de criar chamados, estes chamados devem ter descrição, categoria (software, hardware e rede) e quem ele afeta, se o problema afeta apenas o funcionário(prioridade baixa), a equipe(prioridade media) ou a empresa(prioridade alta).
 
 Re002: Tratamento de Chamados via I.A, O sistema deve analisar os chamados por meio de uma I.A, e após a análise deve atribuir um nível de prioridade com base na descrição, categoria e quem o chamado afeta os enviar para o responsável técnico, e caso necessário recategorizar o chamado.
 
