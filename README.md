@@ -39,7 +39,10 @@ Foi utilizada a metodologia Scrum, sabendo disso, primeiro foram reunidos os [re
  * A modelagem do banco de dados é concluída enquanto o protótipo tambem está em finalizando.
 ### *Relatório de Entregas*
 - [Relatório Sprint 1](https://github.com/Lucaskeiji/Projetinho/blob/main/Scrum/Relatorio%20Sprints/Sprint1.md)
-
+  
+### *Relatório de Daily's*
+- [Relatório Daily 1](https://github.com/Lucaskeiji/Projetinho/blob/main/Scrum/Relatorio%20Daily's/Daily1.md)
+  
 ## Tecnologias Utilizadas 💻
 
 Categoría | Tecnologías
