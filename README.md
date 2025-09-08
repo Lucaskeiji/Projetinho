@@ -1,11 +1,18 @@
 # Sistema de suporte técnico com IA 🚀
  
-### Quem somos?
-A InterFix é uma empresa dedicada a transformar o suporte técnico empresarial por meio do uso de inteligência artificial. Nosso objetivo é conectar soluções inteligentes com as necessidades de nossos clientes, oferecendo assistência eficiente, personalizada e em tempo real.
-
 ![InterFix](https://github.com/user-attachments/assets/8aa8a096-88fa-4be4-952c-946d63ceed66)
 
+## Backlog do Produto
+[Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
 
+## Tecnologias Utilizadas 💻
+
+Categoría | Tecnologías
+--------- | -------------
+FrontEnd | HTML, CSS e Figma (Modelagem da interface) 
+Base De Dados | BrModel e SQL Server (Windows Server)
+IA | BlackBox AI
+Metodología | Scrum + Git FLow 
 ## Integrantes 👥
 
 Função       | Nome                | Github                                                       |
@@ -43,14 +50,3 @@ Foi utilizada a metodologia Scrum, sabendo disso, primeiro foram reunidos os [re
 ### *Relatório de Daily's*
 - [Relatório Daily 1](https://github.com/Lucaskeiji/Projetinho/blob/main/Scrum/Relatorio%20Daily's/Daily1.md)
   
-## Tecnologias Utilizadas 💻
-
-Categoría | Tecnologías
---------- | -------------
-## FrontEnd 
-           ![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
-    
-          , CSS e Figma (Modelagem da interface) 
-Base De Dados | BrModel e SQL Server (Windows Server)
-IA | BlackBox AI
-Metodología | Scrum + Git FLow 
