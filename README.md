@@ -49,7 +49,7 @@ Categoría | Tecnologías
 --------- | -------------
 ## FrontEnd 
            <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" align="center" heigth=50 width=50>
            </a>     
           , CSS e Figma (Modelagem da interface) 
 Base De Dados | BrModel e SQL Server (Windows Server)
