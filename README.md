@@ -47,8 +47,10 @@ Foi utilizada a metodologia Scrum, sabendo disso, primeiro foram reunidos os [re
 
 Categoría | Tecnologías
 --------- | -------------
-FrontEnd | 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+## FrontEnd 
+           <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+           </a>     
           , CSS e Figma (Modelagem da interface) 
 Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
