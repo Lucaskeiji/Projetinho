@@ -48,9 +48,8 @@ Foi utilizada a metodologia Scrum, sabendo disso, primeiro foram reunidos os [re
 Categoría | Tecnologías
 --------- | -------------
 ## FrontEnd 
-           <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" align="center" heigth=50 width=50>
-           </a>     
+           ![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+    
           , CSS e Figma (Modelagem da interface) 
 Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
