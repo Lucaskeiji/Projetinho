@@ -14,23 +14,7 @@ A missão é entregar um sistema funcional e estável, demonstrando maestria no 
 ## Backlog do Produto
 [Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
 
-### *Sprint Planing*
 
-1. Estabelecimento de metas e início do desenvolvimento do backlog do produto.
- * A primeira ação tomada em relação ao backlog do produto foi identificar os pontos críticos, com o intuito de compreender o seu alcance e propor melhorias.
-
-2. Desenvolvimento de diagramas de caso de uso sobre os primeiros requisitos atendidos.
- * Desenvolvimento de gráficos ilustrativos sobre os requisitos atendidos.
-
-3. Conclusão do desenvolvimento do backlog do produto.
- * O backlog do produto foi finalizado e está pronto para ser apresentado ao cliente.
-
-4. Desenvolvimento do banco de dados e prototipo Desktop(Modelo conceitual)
- * Inicia-se o desenvolvimento do banco de dados e do protótipo do sistema.
-
-5. Finalização de banco de datos e prototipo Desktop.
- * A modelagem do banco de dados é concluída enquanto o protótipo tambem está em finalizando.
-  
 ### *Relatório de Daily's*
 - [Relatório Daily 1](https://github.com/Lucaskeiji/Projetinho/blob/main/Scrum/Relatorio%20Daily's/Daily1.md)
 
