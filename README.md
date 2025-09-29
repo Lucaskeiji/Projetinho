@@ -14,40 +14,6 @@ A missão é entregar um sistema funcional e estável, demonstrando maestria no 
 ## Backlog do Produto
 [Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
 
-## Sprints
-
-| Sprint  |  Período  | Documentação |
------------- | --------------------| -------------------------------------------------------------|
-| Sprint1 | 2 semanas | [Relatório da Sprint 1](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint1) |
-| Sprint2 | 2 semanas | [Relatório da Sprint 2](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint2) | 
-| Sprint3 | 2 semanas | [Relatório da Sprint 3] |
-| Sprint4 | 2 semanas | [Relatório da Sprint 4] |
-| Sprint5 | 2 semanas | [Relatório da Sprint 5] |
-
-## Tecnologias Utilizadas 💻
-
-Categoría | Tecnologías
---------- | -------------
-FrontEnd | HTML, CSS e Figma (Modelagem da interface) 
-Base De Dados | BrModel e SQL Server (Windows Server)
-IA | BlackBox AI
-Metodología | Scrum + Git FLow 
-## Integrantes 👥
-
-Função       | Nome                | Github                                                       |
------------- | --------------------| -------------------------------------------------------------|
-Project Owner| Christian Fernandes | [Acessar Github](https://github.com/ChristianFernandesLemos) |
-Scrum Master | Juan Vargas         | [Acessar Github](https://github.com/RenteriaJuan)            |
-Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorphinm)               |
-Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
-Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
-Dev Team     | Lucas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
-
-         
-## Metodologia Scrum 🎯
-
-Foi utilizada a metodologia Scrum, sabendo disso, primeiro foram reunidos os [requisitos](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/Requisitos.txt), essa parte dos requisitos aborda os requisitos funcionais, os requisitos não funcionais, o plano de negócios e outros fatores, como a [*User Strory*](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md). e com base no que foi dito o sistema foi modelado da forma efetiva. Depois de reunir os requisitos foi feito o backlog das sprints.
-
 ### *Sprint Planing*
 
 1. Estabelecimento de metas e início do desenvolvimento do backlog do produto.
@@ -67,4 +33,39 @@ Foi utilizada a metodologia Scrum, sabendo disso, primeiro foram reunidos os [re
   
 ### *Relatório de Daily's*
 - [Relatório Daily 1](https://github.com/Lucaskeiji/Projetinho/blob/main/Scrum/Relatorio%20Daily's/Daily1.md)
+
+## Sprints
+
+| Sprint  |  Período  | Documentação |
+------------ | --------------------| -------------------------------------------------------------|
+| Sprint1 | 2 semanas | [Relatório da Sprint 1](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint1) |
+| Sprint2 | 2 semanas | [Relatório da Sprint 2](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint2) | 
+| Sprint3 | 2 semanas | [Relatório da Sprint 3] |
+| Sprint4 | 2 semanas | [Relatório da Sprint 4] |
+| Sprint5 | 2 semanas | [Relatório da Sprint 5] |
+
+## Tecnologias Utilizadas 💻
+
+Categoría | Tecnologías
+--------- | -------------
+FrontEnd | HTML, CSS e Figma (Modelagem da interface)
+BackEnd | C#
+Base De Dados | BrModel e SQL Server (Windows Server)
+IA | BlackBox AI
+Metodología | Scrum + Git FLow 
+
+## Integrantes 👥
+
+Função       | Nome                | Github                                                       |
+------------ | --------------------| -------------------------------------------------------------|
+Project Owner| Christian Fernandes | [Acessar Github](https://github.com/ChristianFernandesLemos) |
+Scrum Master | Juan Vargas         | [Acessar Github](https://github.com/RenteriaJuan)            |
+Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorphinm)               |
+Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
+Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
+Dev Team     | Lucas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
+
+         
+
+
   
