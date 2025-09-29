@@ -14,6 +14,16 @@ A missão é entregar um sistema funcional e estável, demonstrando maestria no 
 ## Backlog do Produto
 [Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
 
+## Sprints
+
+| Sprint  |  Período  | Documentação |
+------------ | --------------------| -------------------------------------------------------------|
+| Sprint1 | 2 semanas | [Relatório da Sprint 1](https://github.com/Lucaskeiji/Projetinho/blob/main/Scrum/Relatorio%20Sprints/Sprint1.md) |
+| Sprint2 | 2 semanas | [Relatório da Sprint 2] | 
+| Sprint3 | 2 semanas | [Relatório da Sprint 3] |
+| Sprint4 | 2 semanas | [Relatório da Sprint 4] |
+| Sprint5 | 2 semanas | [Relatório da Sprint 5] |
+
 ## Tecnologias Utilizadas 💻
 
 Categoría | Tecnologías
@@ -32,13 +42,7 @@ Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorph
 Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lucas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
-##Sprints
-| Sprint  |  Período  | Documentação |
-| Sprint1 | 2 semanas | [Relatório da Sprint 1](https://github.com/Lucaskeiji/Projetinho/blob/main/Scrum/Relatorio%20Sprints/Sprint1.md) |
-| Sprint2 | 2 semanas | [Relatório da Sprint 2]
-| Sprint3 | 2 semanas | [Relatório da Sprint 3]
-| Sprint4 | 2 semanas | [Relatório da Sprint 4]
-| Sprint5 | 2 semanas | [Relatório da Sprint 5]
+
          
 ## Metodologia Scrum 🎯
 
