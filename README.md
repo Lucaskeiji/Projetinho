@@ -18,7 +18,7 @@ A missão é entregar um sistema funcional e estável, demonstrando maestria no 
 
 | Sprint  |  Período  | Documentação |
 ------------ | --------------------| -------------------------------------------------------------|
-| Sprint1 | 2 semanas | [Relatório da Sprint 1]([https://github.com/Lucaskeiji/Projetinho/blob/main/Scrum/Relatorio%20Sprints/Sprint1.md](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint1)) |
+| Sprint1 | 2 semanas | [Relatório da Sprint 1](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint1) |
 | Sprint2 | 2 semanas | [Relatório da Sprint 2](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint2) | 
 | Sprint3 | 2 semanas | [Relatório da Sprint 3] |
 | Sprint4 | 2 semanas | [Relatório da Sprint 4] |
