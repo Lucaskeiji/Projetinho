@@ -14,6 +14,19 @@ A missão é entregar um sistema funcional e estável, demonstrando maestria no 
 ## Backlog do Produto
 [Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
 
+# 🏃‍DoR – Definition of Ready
+- ✅**User Story criada no repositório**
+- ✅**Critérios de aceitação definidos**
+- ✅**Subtarefas listadas**
+- ✅**Telas no Figma anexadas ou linkadas**
+- ✅**Modelagem do banco de dados atualizada**
+- ✅**Diagrama de rotas definido**
+
+# 🏆DoD – Definition of Done
+- ✅**Código implementado e funcionando**
+- ✅**Manuais atualizados no repositório**
+- ✅**Documentação da API atualizada**
+- ✅**Banco de dados atualizado**
 
 ### *Relatório de Daily's*
 - [Relatório Daily 1](https://github.com/Lucaskeiji/Projetinho/blob/main/Scrum/Relatorio%20Daily's/Daily1.md)
