@@ -30,6 +30,20 @@ Embora o foco desta sprint fosse principalmente técnico e de configuração, el
 | `Senha_Hash` | VARCHAR | Armazenamento da senha **criptografada** (hashing). |
 | `Nivel_Acesso` | VARCHAR | Inicialmente preenchido como 'Funcionário'. Preparado para os valores 'Responsável Técnico' e 'Administrador'. |
 
+ # 🏃‍DoR atendidos na Sprint 2
+- **✅ Telas no Figma anexadas ou utilizadas para desenvolvimento**
+- **✅ Modelagem do banco de dados atualizada (entidade Usuário)**
+- **✅ Subtarefas definidas para Login e Cadastro**
+- **✅ Critérios de aceitação atendidos para CRUD inicial de usuário**
+- **✅ User Stories elegíveis para início (login e cadastro)**
+
+# 🏆DoD atendidos na Sprint 2
+- **✅ Código implementado e funcionando (CRUD básico de usuários)**
+- **✅ Documentação da API atualizada para operações de usuário**
+- **✅ Banco de dados atualizado e testes de conectividade com nuvem**
+- **✅ Vídeo de entrega registrado (demonstração end-to-end prevista no relatório)**
+- **✅ Protótipo navegável entregue (Login e Cadastro funcionando)**
+
 ## Ferramentas utilizadas
 
 * **HTML/CSS:** Para o desenvolvimento das interfaces *frontend* (Login e Cadastro).
