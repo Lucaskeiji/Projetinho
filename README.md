@@ -52,11 +52,8 @@ Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
 
-## Estrutura do Projeto
-[Aqui está a estrutura do Projeto]()
-
-## Como usar
-[Aqui está como usar o Programa web]()
+## Estrutura do Projeto e Como usar
+[Aqui está a estrutura do Projeto em Desktop e muito mais](https://github.com/Lucaskeiji/Projetinho/blob/main/Desktop/estrutura&outras.md)
 
 ## Link da Documentação <a id="documentacao"></a>
 [Aqui está o link da Documentação](https://github.com/Lucaskeiji/Projetinho/tree/main/Docs)
