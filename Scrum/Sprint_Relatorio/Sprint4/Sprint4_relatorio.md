@@ -35,6 +35,20 @@ Para suportar o novo fluxo, a entidade de **Chamados** foi formalmente criada e 
 
 A implementação de **validações de segurança** (como *sanitização* de entrada, validação de tipos e formatos de dados) e o **tratamento de erros** robusto na API garantem maior **estabilidade e resiliência** contra falhas de conexão ou entradas de dados maliciosas.
 
+# 🏃‍DoR atendidos na Sprint 4
+- **✅ Critérios de aceitação definidos para fluxo completo do chamado**
+- **✅ Subtarefas definidas para escalonamento humano e painel do agente**
+- **✅ Modelagem do banco de dados atualizada com entidade Chamado**
+- **✅ Diagrama de rotas ajustado para escalonamento e painel do agente**
+- **✅ User Stories relevantes prontas para implementação (Re002, Re001, Re004)**
+
+# 🏆DoD atendidos na Sprint 4
+- **✅ Fluxo completo do chamado implementado (IA + Escalonamento Humano)**
+- **✅ Painel básico do Responsável Técnico funcional**
+- **✅ Banco de dados atualizado com status e histórico do chamado**
+- **✅ Segurança e tratamento de erros aprimorados na API**
+- **✅ Vídeo de entrega demonstrando o processo do chamado fim a fim**
+
 ## Ferramentas utilizadas
 
 * **[Tecnologia Backend]:** Implementação da lógica de decisão e tratamento de erros e exceções.
