@@ -18,15 +18,8 @@ A solução proposta é a implementação do InterFix como um sistema completo d
 ## Backlog do Produto <a id="backlog"></a>
 [Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
 
-## Sprints <a id="sprints"></a>
-
-| Sprint  |  Período  | Documentação |
------------- | --------------------| -------------------------------------------------------------|
-| Sprint1 | 2 semanas | [Relatório da Sprint 1](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint1) |
-| Sprint2 | 2 semanas | [Relatório da Sprint 2](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint2) | 
-| Sprint3 | 2 semanas | [Relatório da Sprint 3](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint3) |
-| Sprint4 | 2 semanas | [Relatório da Sprint 4](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint4) |
-| Sprint5 | 2 semanas | [Relatório da Sprint 5](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint5) |
+## Tabela das Sprints
+[Aqui está as tabelas das Sprints]()
 
 ## Tecnologias Utilizadas 💻 <a id="tecnologias"></a>
 
@@ -54,3 +47,6 @@ Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorph
 Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lucas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
+
+## Link do Manual de Uso
+[Aqui está o link do Manual de Uso]()
