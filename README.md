@@ -1,3 +1,4 @@
+
 # Sistema de suporte técnico com IA 🚀
  
 ![InterFix](https://github.com/user-attachments/assets/8aa8a096-88fa-4be4-952c-946d63ceed66) 
@@ -53,6 +54,9 @@ BackEnd | C#
 Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
+
+## Link da Pasta
+[Pasta](https://github.com/Lucaskeiji/Projetinho/tree/main/Docs)
 
 ## Integrantes 👥
 
