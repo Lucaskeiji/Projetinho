@@ -1,9 +1,9 @@
+# Sistema de suporte técnico com IA 🚀 
 
-# Sistema de suporte técnico com IA 🚀
- 
 ![InterFix](https://github.com/user-attachments/assets/8aa8a096-88fa-4be4-952c-946d63ceed66) 
-
-## 🏅 Desafio
+| <a href=#desafio>Desafio</a> | <a href=#solucao>Solução</a> | <a href=#backlog>Backlog</a> | <a href=#dor>DoR</a> | <a href=#dod>DoD</a> | <a href=#sprints>Sprints</a> | <a href=#tecnologias>Tecnologias</a> | <a href=#documentacao>Documentação</a> | <a href=#integrantes>Integrantes</a> |
+> Status do Projeto: Em Andamento
+## 🏅 Desafio <a id="desafio"></a>
 O desafio é duplo: não apenas construir o InterFix, um Sistema de Suporte Técnico com IA (utilizando BlackBox AI e SQL Server), mas também provar a capacidade de desenvolver um produto complexo com alta disciplina ágil.
 
 O desafio técnico é imenso, exigindo, por exemplo, do nosso colega da equipe de desenvolvimento um esforço para dominar a fundo a BlackBox AI e garantir sua integração fluida com a base de dados em SQL Server, um ponto crítico de falha se mal planejado.
@@ -12,13 +12,13 @@ O maior obstáculo não é apenas a tecnologia, mas a colaboração: uma equipe 
 
 A missão é entregar um sistema funcional e estável, demonstrando maestria no Gerenciamento de Versão, transformando a potencial dor de cabeça da integração em um workflow limpo e eficiente para todas as Sprints.
 
-## 🏅 Solução
+## 🏅 Solução <a id="solucao"></a>
 A solução proposta é a implementação do InterFix como um sistema completo de suporte técnico com Inteligência Artificial, garantindo integração eficiente entre BlackBox AI e SQL Server. Através da aplicação rigorosa de metodologias ágeis e boas práticas de versionamento, a plataforma poderá evoluir com estabilidade, reduzindo riscos de falhas de integração e promovendo colaboração contínua entre os desenvolvedores.
 
-## Backlog do Produto
+## Backlog do Produto <a id="backlog"></a>
 [Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
 
-# 🏃‍DoR – Definition of Ready
+# 🏃‍DoR – Definition of Ready <a id="dor"></a>
 - ✅**User Story criada no repositório**
 - ✅**Critérios de aceitação definidos**
 - ✅**Subtarefas listadas**
@@ -26,16 +26,13 @@ A solução proposta é a implementação do InterFix como um sistema completo d
 - ✅**Modelagem do banco de dados atualizada**
 - ✅**Diagrama de rotas definido**
 
-# 🏆DoD – Definition of Done
+# 🏆DoD – Definition of Done <a id="dod"></a>
 - ✅**Código implementado e funcionando**
 - ✅**Manuais atualizados no repositório**
 - ✅**Documentação da API atualizada**
 - ✅**Banco de dados atualizado**
 
-### *Relatório de Daily's*
-- [Relatório Daily 1](https://github.com/Lucaskeiji/Projetinho/blob/main/Scrum/Relatorio%20Daily's/Daily1.md)
-
-## Sprints
+## Sprints <a id="sprints"></a>
 
 | Sprint  |  Período  | Documentação |
 ------------ | --------------------| -------------------------------------------------------------|
@@ -45,7 +42,7 @@ A solução proposta é a implementação do InterFix como um sistema completo d
 | Sprint4 | 2 semanas | [Relatório da Sprint 4](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint4) |
 | Sprint5 | 2 semanas | [Relatório da Sprint 5](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint5) |
 
-## Tecnologias Utilizadas 💻
+## Tecnologias Utilizadas 💻 <a id="tecnologias"></a>
 
 Categoría | Tecnologías
 --------- | -------------
@@ -55,10 +52,16 @@ Base De Dados | BrModel e SQL Server (Windows Server)
 IA | BlackBox AI
 Metodología | Scrum + Git FLow 
 
-## Link da Pasta
-[Pasta](https://github.com/Lucaskeiji/Projetinho/tree/main/Docs)
+## Estrutura do Projeto
+[Aqui está a estrutura do Projeto]()
 
-## Integrantes 👥
+## Como usar
+[Aqui está como usar o Programa web]()
+
+## Link da Documentação <a id="documentacao"></a>
+[Aqui está o link da Documentação](https://github.com/Lucaskeiji/Projetinho/tree/main/Docs)
+
+## Integrantes 👥 <a id="integrantes"></a>
 
 Função       | Nome                | Github                                                       |
 ------------ | --------------------| -------------------------------------------------------------|
@@ -68,8 +71,3 @@ Dev Team     | Théo Pinto          | [Acessar Github](https://github.com/Thorph
 Dev Team     | Ana Beatriz         | [Acessar Github](https://github.com/Anasouza2802)            |
 Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramachoo)               |
 Dev Team     | Lucas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
-
-         
-
-
-  
