@@ -49,4 +49,4 @@ Dev Team     |Gustavo Gramacho     | [Acessar Github](https://github.com/gramach
 Dev Team     | Lucas Keiji         | [Acessar Github](https://github.com/Lucaskeiji)              |
 
 ## Link do Manual de Uso
-[Aqui está o link do Manual de Uso]()
+[Aqui está o link do Manual de Uso](https://github.com/Lucaskeiji/Projetinho/blob/main/Docs/Manual_de_Uso_InterFix.docx)
