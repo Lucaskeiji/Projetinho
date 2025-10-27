@@ -2,7 +2,7 @@
  
 ![InterFix](https://github.com/user-attachments/assets/8aa8a096-88fa-4be4-952c-946d63ceed66) 
 
-## Descrição do Desafio
+## 🏅 Desafio
 O desafio é duplo: não apenas construir o InterFix, um Sistema de Suporte Técnico com IA (utilizando BlackBox AI e SQL Server), mas também provar a capacidade de desenvolver um produto complexo com alta disciplina ágil.
 
 O desafio técnico é imenso, exigindo, por exemplo, do nosso colega da equipe de desenvolvimento um esforço para dominar a fundo a BlackBox AI e garantir sua integração fluida com a base de dados em SQL Server, um ponto crítico de falha se mal planejado.
@@ -10,6 +10,9 @@ O desafio técnico é imenso, exigindo, por exemplo, do nosso colega da equipe d
 O maior obstáculo não é apenas a tecnologia, mas a colaboração: uma equipe de vários desenvolvedores deve aplicar rigorosamente a metodologia Scrum e Git Flow para gerenciar a integração de diferentes stacks sem gerar o "Caos de Merge".
 
 A missão é entregar um sistema funcional e estável, demonstrando maestria no Gerenciamento de Versão, transformando a potencial dor de cabeça da integração em um workflow limpo e eficiente para todas as Sprints.
+
+## 🏅 Solução
+A solução proposta é a implementação do InterFix como um sistema completo de suporte técnico com Inteligência Artificial, garantindo integração eficiente entre BlackBox AI e SQL Server. Através da aplicação rigorosa de metodologias ágeis e boas práticas de versionamento, a plataforma poderá evoluir com estabilidade, reduzindo riscos de falhas de integração e promovendo colaboração contínua entre os desenvolvedores.
 
 ## Backlog do Produto
 [Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
