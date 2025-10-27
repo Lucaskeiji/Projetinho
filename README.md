@@ -1,7 +1,7 @@
 # Sistema de suporte técnico com IA 🚀 
 
 ![InterFix](https://github.com/user-attachments/assets/8aa8a096-88fa-4be4-952c-946d63ceed66) 
-| <a href=#desafio>Desafio</a> | <a href=#solucao>Solução</a> | <a href=#backlog>Backlog</a> | <a href=#dor>DoR</a> | <a href=#dod>DoD</a> | <a href=#sprints>Sprints</a> | <a href=#tecnologias>Tecnologias</a> | <a href=#documentacao>Documentação</a> | <a href=#integrantes>Integrantes</a> |
+| <a href=#desafio>Desafio</a> | <a href=#solucao>Solução</a> | <a href=#backlog>Backlog</a> | <a href=#sprints>Sprints</a> | <a href=#tecnologias>Tecnologias</a> | <a href=#documentacao>Documentação</a> | <a href=#integrantes>Integrantes</a> |
 > Status do Projeto: Em Andamento
 ## 🏅 Desafio <a id="desafio"></a>
 O desafio é duplo: não apenas construir o InterFix, um Sistema de Suporte Técnico com IA (utilizando BlackBox AI e SQL Server), mas também provar a capacidade de desenvolver um produto complexo com alta disciplina ágil.
@@ -17,20 +17,6 @@ A solução proposta é a implementação do InterFix como um sistema completo d
 
 ## Backlog do Produto <a id="backlog"></a>
 [Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
-
-# 🏃‍DoR – Definition of Ready <a id="dor"></a>
-- ✅**User Story criada no repositório**
-- ✅**Critérios de aceitação definidos**
-- ✅**Subtarefas listadas**
-- ✅**Telas no Figma anexadas ou linkadas**
-- ✅**Modelagem do banco de dados atualizada**
-- ✅**Diagrama de rotas definido**
-
-# 🏆DoD – Definition of Done <a id="dod"></a>
-- ✅**Código implementado e funcionando**
-- ✅**Manuais atualizados no repositório**
-- ✅**Documentação da API atualizada**
-- ✅**Banco de dados atualizado**
 
 ## Sprints <a id="sprints"></a>
 
