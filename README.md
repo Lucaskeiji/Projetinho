@@ -19,7 +19,7 @@ A solução proposta é a implementação do InterFix como um sistema completo d
 [Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
 
 ## Tabela das Sprints
-[Aqui está as tabelas das Sprints]()
+[Aqui está as tabelas das Sprints](https://github.com/Lucaskeiji/Projetinho/tree/main/Backlog/Sprints)
 
 ## Tecnologias Utilizadas 💻 <a id="tecnologias"></a>
 
