@@ -33,6 +33,20 @@ Para garantir a rastreabilidade e o futuro treinamento/monitoramento do modelo d
 | `Resposta_IA` | TEXT | Resposta ou instrução preliminar da IA ao usuário. |
 | `Data_Interacao` | DATETIME | Carimbo de data/hora da interação. |
 
+# 🏃‍DoR atendidos na Sprint 3
+- **✅ User Stories prontas para desenvolvimento (Re002, Re001)**
+- **✅ Critérios de aceitação definidos para módulo de IA e log de interações**
+- **✅ Modelagem do banco de dados atualizada com tabela de Log de Interações da IA**
+- **✅ Subtarefas definidas para fluxo IA frontend-backend**
+- **✅ Diagrama de rotas atualizado para integração com serviço de IA**
+
+# 🏆DoD atendidos na Sprint 3
+- **✅ Código implementado e funcionando para Módulo de Suporte Funcional (MVP)**
+- **✅ Banco de dados atualizado com registro de interações da IA**
+- **✅ Documentação da API atualizada para novos endpoints da IA**
+- **✅ Protótipo funcional: interação com IA respondendo ao usuário**
+- **✅ Vídeo de entrega da sprint demonstrando fluxo completo**
+
 ## Ferramentas utilizadas
 
 * **BlackBox AI API:** Serviço de inteligência artificial utilizado para processamento e classificação de texto.
