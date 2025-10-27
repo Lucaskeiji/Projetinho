@@ -29,6 +29,20 @@ As atividades de QA e otimização foram as mais intensas desta sprint:
 * **Otimização de Performance:** Foram reescritas ou indexadas as *queries* mais lentas, especificamente a de carregamento dos **Painéis do Agente Humano** (para Técnicos) e o **Relatório de Logs de IA** (para Administradores), resultando em uma redução média de 40% no tempo de resposta das consultas.
 * **Documentação Final:** O relatório consolidado do projeto, a documentação da API e um guia de *deployment* foram finalizados e entregues, garantindo a sustentabilidade e a transferência de conhecimento do sistema.
 
+# 🏃‍DoR atendidos na Sprint 5
+- **✅ User Stories fechadas para QA e validação final**
+- **✅ Critérios de aceitação completos para todos os requisitos prioritários**
+- **✅ Design final do Figma aplicado e consolidado**
+- **✅ Modelagem do banco de dados estável e congelada para Beta**
+- **✅ Rotas definidas e sem pendências de integração**
+
+# 🏆DoD atendidos na Sprint 5
+- **✅ Versão Beta final implementada e pronta para deployment**
+- **✅ Testes E2E executados e bugs críticos corrigidos**
+- **✅ Otimização de performance do banco concluída**
+- **✅ Documentação finalizada (API, arquitetura, guia de deployment, relatórios)**
+- **✅ Vídeo da entrega demonstrando o produto em funcionamento para o cliente**
+
 ## Ferramentas utilizadas
 
 * **[Ferramenta de Teste E2E] (ex: Cypress, Selenium):** Utilizada para automatizar e executar os testes de ponta a ponta.
