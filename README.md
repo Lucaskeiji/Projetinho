@@ -19,7 +19,15 @@ A solução proposta é a implementação do InterFix como um sistema completo d
 [Backlog](https://github.com/Lucaskeiji/Projetinho/blob/main/Backlog/User%20Story.md)
 
 ## Tabela das Sprints
-[Aqui está as tabelas das Sprints](https://github.com/Lucaskeiji/Projetinho/tree/main/Backlog/Sprints)
+[Aqui está as Sprints](https://github.com/Lucaskeiji/Projetinho/tree/main/Backlog/Sprints)
+
+| Sprint  |  Período  | Documentação |
+------------ | --------------------| -------------------------------------------------------------|
+| Sprint1 | 20/08/2025 - 02/09/2025 | [Relatório da Sprint 1](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint1) |
+| Sprint2 | 02/09/2025 - 15/09/2025 | [Relatório da Sprint 2](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint2) | 
+| Sprint3 | 15/09/2025 - 28/09/2025 | [Relatório da Sprint 3](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint3) |
+| Sprint4 | 28/09/2025 - 12/10/2025 | [Relatório da Sprint 4](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint4) |
+| Sprint5 | 12/10/2025 - 25/10/2025 | [Relatório da Sprint 5](https://github.com/Lucaskeiji/Projetinho/tree/main/Scrum/Sprint_Relatorio/Sprint5) |
 
 ## Tecnologias Utilizadas 💻 <a id="tecnologias"></a>
 
